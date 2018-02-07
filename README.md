@@ -2,7 +2,7 @@
 
 > enable-php-in-html.sh
 
-At first set **execute** permission for the script
+At first set **execute** permission for the script, then run it... :v: :v:
 
 ```
    $  sudo chmod +x enable-php-in-html.sh
