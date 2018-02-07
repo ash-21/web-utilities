@@ -1,4 +1,4 @@
-# Various HTML/PHP problems solutions 🙂 🙂 
+# Various HTML/PHP problems solutions 🙂 🙂  ☺☺
 
 > enable-php-in-html.sh
 
